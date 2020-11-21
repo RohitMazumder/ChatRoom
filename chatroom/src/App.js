@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Index from './components/Index.jsx'
+import HomePage from './components/HomePage.jsx'
 function App() {
   return (
     <div className="App">
-      <Index />
+      <HomePage />
     </div>
   );
 }

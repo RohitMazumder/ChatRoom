@@ -2,7 +2,7 @@ import React from "react";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-function SingleCard(props) {
+function RoomCard(props) {
   return (
     <div>
       <Card style={{ width: "18rem" }}>
@@ -19,4 +19,4 @@ function SingleCard(props) {
   );
 }
 
-export default SingleCard;
+export default RoomCard;
