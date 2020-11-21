@@ -1,0 +1,26 @@
+[
+    {
+      "cardTitle": "WebDev",
+      "id": "1",  
+      "subText": "internet and beyond.",
+      "activeUsers": "6"
+    },
+    {
+        "cardTitle": "DS/Algo",
+        "id": "2",  
+        "subText": "ummm..intuitive!",
+        "activeUsers": "7"
+    },
+    {
+        "cardTitle": "misc",
+        "id": "3",  
+        "subText": "i mean..how would i know ?",
+        "activeUsers": "8"
+    },
+    {
+        "cardTitle": "music",
+        "id": "4",  
+        "subText": "i mean..how would i know ?",
+        "activeUsers": "8"
+    }
+]
